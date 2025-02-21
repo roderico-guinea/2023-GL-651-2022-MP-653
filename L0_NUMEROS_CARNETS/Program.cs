@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
-using L01_NUMEROS_CARNETS.Models;
+using L0_NUMEROS_CARNETS.Models;
 
 
 var builder = WebApplication.CreateBuilder(args);

@@ -1,7 +1,7 @@
 ﻿using L0_NUMEROS_CARNETS.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace L01_NUMEROS_CARNETS.Models
+namespace L0_NUMEROS_CARNETS.Models
 {
     public class BlogContext : DbContext
     {
