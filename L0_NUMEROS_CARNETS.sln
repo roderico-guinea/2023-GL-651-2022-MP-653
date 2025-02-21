@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L0_NUMEROS_CARNETS", "L0_NUMEROS_CARNETS\L0_NUMEROS_CARNETS.csproj", "{47F9F60A-6F27-4A99-BF69-5197C2AFE8AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47F9F60A-6F27-4A99-BF69-5197C2AFE8AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47F9F60A-6F27-4A99-BF69-5197C2AFE8AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47F9F60A-6F27-4A99-BF69-5197C2AFE8AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47F9F60A-6F27-4A99-BF69-5197C2AFE8AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDEF078E-E363-4B89-BFF6-CE55CE3208DE}
+	EndGlobalSection
+EndGlobal

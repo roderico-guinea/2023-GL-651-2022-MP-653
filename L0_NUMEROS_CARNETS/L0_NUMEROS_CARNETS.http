@@ -1,0 +1,6 @@
+@L0_NUMEROS_CARNETS_HostAddress = http://localhost:5229
+
+GET {{L0_NUMEROS_CARNETS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
